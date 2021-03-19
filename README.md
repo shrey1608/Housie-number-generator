@@ -1,4 +1,18 @@
 # Housie-number-generator
-Generate a random ticket for housie/Bingo.<br>
-Just open The Html file and get instant 6 tickets.<br>
-to get more tickets just refresh the page.<br>
+
+When playing an online Housie Getting housie tickets seems as a issue but with this software( Random housie generator) 
+
+## Features:
+- Randomly prints 6 tickets at a time
+- Follows all the housie rules
+- Press Refresh and new 6 tickts generated
+
+## Technologies Used:
+- HTML
+- CSS
+
+## Setup the project locally
+- Clone the repo.
+    ```
+    git clone https://github.com/shrey1608/Housie-number-generator
+    ```
